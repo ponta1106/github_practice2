@@ -9,3 +9,7 @@ YouTube を観る
 ## 目標
 
 だらだら暮らす
+
+```
+user = User.new(name: 'Tabata', age: 30)
+```
